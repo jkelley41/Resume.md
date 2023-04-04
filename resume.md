@@ -73,7 +73,7 @@ and Risk Assessments, Continuous Monitoring, Datacenter Management, Network Desi
 
 *Languages:* Powershell, Bash, Batch, Ansible, HTML, CSS
 
-*Cloud and Virtualization Platforms:* Azure Cloud and Stack Hub, Hyper-V, ProxMox (KVM), VMware, Citrix Xen*
+*Cloud and Virtualization Platforms:* Azure Cloud and Stack Hub, Hyper-V, ProxMox (KVM), VMware, Citrix Xen*, Docker
 
 ## Experience
 
@@ -102,17 +102,17 @@ Accenture Federal Services - Salt Lake City, UT
 L3Harris Technologies - Salt Lake City, UT
 <br>
 
-- Serve as ISSO and Systems Administrator for numerous Department of Defense (DoD) networks
+- Served as ISSO and Systems Administrator for numerous Department of Defense (DoD) networks
 containing Active Directory domains of both Windows and Red Hat Enterprise Linux systems
 
-- Architect and deploy secure DoD networks containing servers, workstations, and switches following the Risk
+- Architected and deployed secure DoD networks containing servers, workstations, and switches following the Risk
 Management Framework (RMF) and NIST 800-53 for selection and implementation of security controls
 
-- Perform thorough Cybersecurity audits of both networks and standalone systems on interval
+- Performed thorough Cybersecurity audits of both networks and standalone systems on interval
 
-- Utilize continuous monitoring (ConMon) tools to maintain security posture and compliance of systems
+- Utilized continuous monitoring (ConMon) tools to maintain security posture and compliance of systems
 
-- Conduct risk and vulnerability assessments, making remediations as necessary
+- Conducted risk and vulnerability assessments, making remediations as necessary
 </p>
 
 <p>
