@@ -14,7 +14,8 @@
         font-variant: small-caps;
         }
     span {
-        float: right
+        float: right;
+        font-size: 14px;
     }
     p {
         margin-top: 1px;
